@@ -1,0 +1,4 @@
+---
+# defaults file for roles/my_own_module
+path: ./rolefile.txt
+content: "add text"
